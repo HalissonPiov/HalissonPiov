@@ -1,7 +1,7 @@
 <p align = "left">
   <strong> <img src = "images\br.png" width = 2.0% height = 2.0% > Visualize meu perfil em português: </strong>
 <br>
-  <a href = "https://github.com/HalissonPiov/HalissonPiov/blob/558546436003f0fae1e190976113da7fc9bc8d6c/readme-ptbr.md">
+  <a href = "https://github.com/HalissonPiov/HalissonPiov/blob/62198aef2115c4cc5c9c3c283e17eb9460c09b9c/readme-ptbr.md">
     <img src = "https://img.shields.io/badge/Português-Clique%20aqui-white.svg" alt = "portuguese" /> 
   </a>
 </p>
