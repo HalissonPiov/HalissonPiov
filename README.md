@@ -1,10 +1,10 @@
-## ✌🏻Olá, meu nome é Hálisson e...
+## ✌🏻Hello, my name is Hálisson and...
 
-- 🎓 Sou estudante do curso de **sistemas de informação**, na **Universidade Federal de Ouro Preto - MG**
+- 🎓 I'm a student on the **information systems** course, at the **Federal University of Ouro Preto - MG**
 
-- 🧑🏻‍💻 Programo atualmente com foco em **Java**, mas pretendo expandir para outras linguagens e me aprimorar nas que já realizei também **desenvolvimentos**, como **C**, **JavaScript**, **Python**, **HTML** e **CSS**
+- 🧑🏻‍💻 I currently program with a focus on **Java**, but I intend to expand to other languages ​​and improve on the ones I have also carried out **developments**, such as **C**, **JavaScript**, * *Python**, **HTML** and **CSS**
 
-- 🌎 Estou em uma **etapa de estudos constante**, descobrindo novas **tecnologias** e **conhecimentos** da área
+- 🌎 I am in a **constant study phase**, discovering new **technologies** and **knowledge** in the area
 <br>
 
 ##
