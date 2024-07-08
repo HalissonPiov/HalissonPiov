@@ -1,3 +1,13 @@
+<p align = "left">
+  <strong> <img src = "images\us.png" width = 2.0% height = 2.0% > View my profile in english: </strong>
+<br>
+  <a href = "https://github.com/HalissonPiov/HalissonPiov">
+    <img src = "https://img.shields.io/badge/English-Click%20here-white.svg" alt = "inglês" /> 
+  </a>
+</p>
+
+<br>
+
 ## ✌🏻Olá, meu nome é Hálisson e...
 
 - 🎓 Sou estudante do curso de **sistemas de informação**, na **Universidade Federal de Ouro Preto - MG**
