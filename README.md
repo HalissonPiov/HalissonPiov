@@ -10,7 +10,7 @@
 
 ## ✌🏻Hello, my name is Hálisson and...
 
-- 🎓 I'm a student on the **information systems** course, at the **Federal University of Ouro Preto - MG**
+- 🎓 I'm a student on the **information systems** course, at the [**Federal University of Ouro Preto - MG**](https://ufop.br/)
 
 - 🧑🏻‍💻 I currently program with a focus on **Java**, but I intend to expand to other languages ​​and improve on the ones I have also carried out **developments**, such as **C**, **JavaScript**, **HTML** and **CSS**
 
