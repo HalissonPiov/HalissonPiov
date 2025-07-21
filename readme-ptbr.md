@@ -12,10 +12,10 @@
 
 - 🎓 Sou estudante do curso de **sistemas de informação**, na [**Universidade Federal de Ouro Preto - MG**](https://ufop.br/)
 
-- 🧑🏻‍💻 Programo atualmente com foco em **Java**, mas pretendo expandir para outras linguagens e me aprimorar nas que já realizei também **desenvolvimentos**, como **C**, **JavaScript**, **HTML** e **CSS**
+- 🧑🏻‍💻 Meu foco é desenvolvimento **back-end**, principalmente no **ecossistema Java**. Paralelamente, tenho **estudado** e **experiência** em outras tecnologias para uma formação **full-stack**, como **JavaScript** e **React**.
 
-- 🌎 Estou em uma **etapa de estudos constante**, descobrindo novas **tecnologias** e **conhecimentos** da área
+- 🌎 Busco ativamente aprimorar minhas habilidades através de uma **rotina de estudos**. Atualmente, faço isso através da **faculdade**, **projetos pessoais** e **cursos complementares**, o que me permite aprofundar em tecnologias que já domino e explorar novas ferramentas demandadas no mercado.
 <br>
 
 ##
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,javascript,java)](https://skillicons.dev)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python)](https://skillicons.dev)
