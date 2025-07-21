@@ -18,4 +18,4 @@
 <br>
 
 ##
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python)](https://skillicons.dev)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python)](https://skillicons.dev)
