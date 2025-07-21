@@ -12,10 +12,10 @@
 
 - 🎓 I'm a student on the **information systems** course, at the [**Federal University of Ouro Preto - MG**](https://ufop.br/)
 
-- 🧑🏻‍💻 I currently program with a focus on **Java**, but I intend to expand to other languages ​​and improve on the ones I have also carried out **developments**, such as **C**, **JavaScript**, **HTML** and **CSS**
+- 🧑🏻‍💻 My focus is back-end development, primarily in the Java ecosystem. I've also studied and gained experience with other technologies, such as JavaScript and React, for full-stack development.
 
-- 🌎 I am in a **constant study phase**, discovering new **technologies** and **knowledge** in the area
+- 🌎 I actively seek to improve my skills through a study routine. Currently, I do this through college, personal projects, and additional courses, which allow me to delve deeper into technologies I already master and explore new tools in demand in the market.
 <br>
 
 ##
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,javascript,java,python)](https://skillicons.dev)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python)](https://skillicons.dev)
