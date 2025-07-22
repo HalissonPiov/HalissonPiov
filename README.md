@@ -18,4 +18,26 @@
 <br>
 
 ##
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python)](https://skillicons.dev)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python)](https://skillicons.dev)
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halissonpiov&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
+</div>
+
+<br>
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:halissonpiovezana5@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/halissonpiovezana/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[https://www.instagram.com/seuusuario/](https://www.instagram.com/halissonpiovezana/)" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
