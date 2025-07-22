@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halissonpiov&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
 </div>
 
-## 📬 Contato
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:halissonpiovezana5@gmail.com" target="_blank">
@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/halissonpiovezana/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/seuusuario/](https://www.instagram.com/halissonpiovezana/)" target="_blank">
+  <a href="https://www.instagram.com/halissonpiovezana/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
