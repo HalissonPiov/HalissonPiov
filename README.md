@@ -26,8 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halissonpiov&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
 </div>
 
-<br>
-
 ## 📬 Contato
 
 <p align="center">
