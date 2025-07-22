@@ -27,7 +27,7 @@
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:halissonpiovezana5@gmail.com" target="_blank">
+  <a href="mailto:halissonsilveirapiovezana@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/halissonpiovezana/" target="_blank">
