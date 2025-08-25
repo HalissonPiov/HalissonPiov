@@ -21,7 +21,10 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python)](https://skillicons.dev)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halissonpiov&layout=compact&langs_count=6&hide=html,css&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halissonpiov&layout=compact&langs_count=6&hide=html,css&theme=transparent&hide_border=true"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=HalissonPiov&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&hide=issues" 
+    valign="top" />
 </div>
 
 ## 📬 Contact
