@@ -12,9 +12,9 @@
 
 - 🎓 I'm a student on the **information systems** course, at the [**Federal University of Ouro Preto - MG**](https://ufop.br/)
 
-- 🧑🏻‍💻 My focus is **back-end** development, primarily in the **Java ecosystem**. I've also **studied** and gained **experience** with other technologies, such as **JavaScript** and **React**, for **full-stack development**.
+- 🧑🏻‍💻 My focus is on back-end development, mainly in the Java, Python, and Node.js ecosystem. In parallel, I am expanding my training to full-stack development, studying technologies such as React and applying this knowledge.
 
-- 🌎 I actively seek to improve my skills through a **study routine**. Currently, I do this through **college**, **personal projects**, and **additional courses**, which allow me to delve deeper into technologies I already master and explore new tools in demand in the market.
+- 🌎 I maintain a continuous learning routine, balancing university studies, personal projects, professional experiences, and supplementary courses, seeking to deepen my knowledge of technologies I already have and explore new tools relevant to the market, as well as concepts and best practices in software engineering.
 <br>
 
 ##
