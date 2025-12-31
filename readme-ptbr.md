@@ -12,9 +12,9 @@
 
 - 🎓 Sou estudante do curso de **sistemas de informação**, na [**Universidade Federal de Ouro Preto - MG**](https://ufop.br/)
 
-- 🧑🏻‍💻 Meu foco é desenvolvimento **back-end**, principalmente no **ecossistema Java**. Paralelamente, tenho **estudado** e **experiência** em outras tecnologias para uma formação **full-stack**, como **JavaScript** e **React**.
+- 🧑🏻‍💻 Meu foco é desenvolvimento **back-end**, principalmente no **ecossistema Java**, Python e Node.JS. Paralelamente, venho ampliando minha formação para **full-stack**, estudando tecnologias, como **React**, e aplicando esse conhecimento.
 
-- 🌎 Busco ativamente aprimorar minhas habilidades através de uma **rotina de estudos**. Atualmente, faço isso através da **faculdade**, **projetos pessoais** e **cursos complementares**, o que me permite aprofundar em tecnologias que já domino e explorar novas ferramentas demandadas no mercado.
+- 🌎 Mantenho uma **rotina contínua de aprendizado**, conciliando **faculdade**, **projetos pessoais**, **experiências profissionais** e **cursos complementares**, buscando aprofundar em tecnologias que já possuo conhecimento e explorar novas ferramentas relevantes para o mercado, além de conceitos e boas práticas da engenharia de software.
 <br>
 
 ##
