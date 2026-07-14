@@ -10,15 +10,19 @@
 
 ## ✌🏻Olá, meu nome é Hálisson e...
 
-- 🎓 Sou estudante do curso de **sistemas de informação**, na [**Universidade Federal de Ouro Preto - MG**](https://ufop.br/)
+- 🎓 Sou estudante do curso de **Sistemas de Informação**, na [**Universidade Federal de Ouro Preto - MG**](https://ufop.br/)
 
-- 🧑🏻‍💻 Meu foco é desenvolvimento **back-end**, principalmente no **ecossistema Java**, Python e Node.JS. Paralelamente, venho ampliando minha formação para **full-stack**, estudando tecnologias, como **React**, e aplicando esse conhecimento.
+- 🧑🏻‍💻 Atuo como **Desenvolvedor Full-Stack**, com forte foco em **Engenharia de Software** e **Back-end**.
 
-- 🌎 Mantenho uma **rotina contínua de aprendizado**, conciliando **faculdade**, **projetos pessoais**, **experiências profissionais** e **cursos complementares**, buscando aprofundar em tecnologias que já possuo conhecimento e explorar novas ferramentas relevantes para o mercado, além de conceitos e boas práticas da engenharia de software.
+- 🌎 Mantenho uma **rotina contínua de aprendizado**, conciliando **faculdade**, **projetos pessoais**, **experiências profissionais** e **cursos complementares**, buscando aprofundar em tecnologias que já possuo conhecimento e explorar novas ferramentas relevantes para o mercado.
 <br>
 
 ##
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python,linux,gitlab,jenkins,docker,postgres,mongodb" alt="My Skills" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats-three-eta-8e3iyzhdf8.vercel.app/api?username=HalissonPiov&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&hide=issues"
