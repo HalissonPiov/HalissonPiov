@@ -18,7 +18,11 @@
 <br>
 
 ##
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,c,nodejs,react,java,spring,python,linux,gitlab,jenkins,docker,postgres,mongodb" alt="My Skills" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats-three-eta-8e3iyzhdf8.vercel.app/api?username=HalissonPiov&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&hide=issues"
