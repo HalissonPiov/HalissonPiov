@@ -10,11 +10,11 @@
 
 ## ✌🏻Hello, my name is Hálisson and...
 
-- 🎓 I'm a student on the **information systems** course, at the [**Federal University of Ouro Preto - MG**](https://ufop.br/)
+- 🎓 I am an **Information Systems** student at the [**Federal University of Ouro Preto (UFOP)**](https://ufop.br/) in Minas Gerais, Brazil.
 
-- 🧑🏻‍💻 My focus is on back-end development, mainly in the Java, Python, and Node.js ecosystem. In parallel, I am expanding my training to full-stack development, studying technologies such as React and applying this knowledge.
+- 🧑🏻‍💻 I work as a **Full-Stack Developer**, with a strong focus on **Software Engineering** and **Back-end** development.
 
-- 🌎 I maintain a continuous learning routine, balancing university studies, personal projects, professional experiences, and supplementary courses, seeking to deepen my knowledge of technologies I already have and explore new tools relevant to the market, as well as concepts and best practices in software engineering.
+- 🌎 I maintain a **continuous learning routine**, balancing **university studies**, **personal projects**, **professional experience**, and **supplementary courses**, while seeking to deepen my knowledge of existing technologies and explore new tools relevant to the market.
 <br>
 
 ##
